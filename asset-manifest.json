@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/hjworld/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/hjworld/static/js/main.498cf2d6.chunk.js",
+    "main.js.map": "/hjworld/static/js/main.498cf2d6.chunk.js.map",
+    "runtime-main.js": "/hjworld/static/js/runtime-main.73619b5d.js",
+    "runtime-main.js.map": "/hjworld/static/js/runtime-main.73619b5d.js.map",
+    "static/js/2.ecb7bbf4.chunk.js": "/hjworld/static/js/2.ecb7bbf4.chunk.js",
+    "static/js/2.ecb7bbf4.chunk.js.map": "/hjworld/static/js/2.ecb7bbf4.chunk.js.map",
+    "index.html": "/hjworld/index.html",
+    "precache-manifest.69c21c66c15f133af2411ab81502011d.js": "/hjworld/precache-manifest.69c21c66c15f133af2411ab81502011d.js",
+    "service-worker.js": "/hjworld/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/hjworld/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ecb7bbf4.chunk.js.LICENSE.txt": "/hjworld/static/js/2.ecb7bbf4.chunk.js.LICENSE.txt",
+    "static/media/aps.png": "/hjworld/static/media/aps.70388fc9.png",
+    "static/media/back2.jpg": "/hjworld/static/media/back2.42804525.jpg",
+    "static/media/iitr.png": "/hjworld/static/media/iitr.fe62adbb.png",
+    "static/media/my_pic.jpg": "/hjworld/static/media/my_pic.ec982712.jpg",
+    "static/media/pic2.jpg": "/hjworld/static/media/pic2.c26f4e12.jpg",
+    "static/media/pic5.JPG": "/hjworld/static/media/pic5.1c164d27.JPG",
+    "static/media/resume.pdf": "/hjworld/static/media/resume.bd0d10fd.pdf",
+    "static/media/resume_1.jpg": "/hjworld/static/media/resume_1.6b86ff62.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73619b5d.js",
+    "static/js/2.ecb7bbf4.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.498cf2d6.chunk.js"
+  ]
+}
