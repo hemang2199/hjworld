@@ -182,7 +182,7 @@ const useStyles = makeStyles((theme) => ({
     </List>
           
     <Typography variant="h4" style={{color:'blue',marginLeft:'2px'}} gutterBottom>
-            Campus Placemets 
+            Campus Placements 
     </Typography><br></br>
     <img src={infy_logo} alt="infosys" style={{width:'180px',height:'120px',backgroundSize:'cover',marginLeft:'40px'}}></img><br></br> 
     <img src={aps_logo} alt="app perfect" style={{width:'180px',height:'120px',backgroundSize:'cover',marginLeft:'40px'}}></img> 
